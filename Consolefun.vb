@@ -23,6 +23,7 @@ Module Consolefun
 
         'Console.WriteLine(result)
         'Console.ReadLine()
+        'ss
 
         Console.Beep(20000, 500)
 
